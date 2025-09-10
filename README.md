@@ -22,9 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Create a Azure Virtual machine with windows 10 version 22H2 - x64 Gen2- Item 2
+- Copy the public IP address from the Virtual machine made in Azure, open microsoft remote desktop create a PC with the public IP address
+- Once microsoft remote desktop is open enter username and password then open a mirosoft edge browser install OSticket
 - Item 4
 - Item 5
 
