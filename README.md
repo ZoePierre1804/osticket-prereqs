@@ -24,11 +24,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create a Azure Virtual machine with windows 10 version 22H2 - x64 Gen2- Item 2
 - Copy the public IP address from the Virtual machine made in Azure, open microsoft remote desktop create a PC with the public IP address
-- Once microsoft remote desktop is open enter username and password then open a mirosoft edge browser install OSticket
-- Item 4
-- Item 5
-
-<h2>Installation Steps</h2>
+- Once microsoft remote desktop is open enter username and password then open a mirosoft edge browser install osTicket
+- After the osTicket is installed you'll need to enable a few entensions, rename a file and assign permissions to everyone make sure to install heidiSQL from there finish the set up of osTicket in browser
+- Congratulations, hopefully it is installed with no errors
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
