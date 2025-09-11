@@ -38,7 +38,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="1512" height="982" alt="Screenshot 2025-09-10 at 1 11 44 PM" src="https://github.com/user-attachments/assets/e5d02ebd-91a6-4c9f-af43-dac71556f3dd" />
 
 </p>
 <p>
