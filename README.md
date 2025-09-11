@@ -95,4 +95,4 @@ Continue setting up osTicket in the browser
 
 <img width="1512" height="982" alt="Screenshot 2025-09-10 at 3 27 31 PM" src="https://github.com/user-attachments/assets/b7fd5fe5-ffd2-4faa-ab91-cb0dafddca9b" />
 
-<br />
+Congratulations, you should now have osTicket installed with minimal issues. Once you log in, you’ll have access to what osTicket has to offer  
