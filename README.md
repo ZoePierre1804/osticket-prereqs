@@ -31,19 +31,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img width="1512" height="982" alt="Screenshot 2025-09-10 at 1 10 38 PM" src="https://github.com/user-attachments/assets/5448d481-9421-4cb9-8a46-b0e01b27e39d" />
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Create an Azure Virtual Machine Windows 10, 4 vCPUs, and create your credentials. Log in to the VM with Remote Desktop
 
-<p>
+Download the osTicket Installation File .zip and unzip it onto your desktop.
+Install / Enable IIS in Windows with CGI
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+From the osTicket Installation Files folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+Create the directory C:\PHP 
+ 
+Folder osTicket Installation Files, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+
+Folder osTicket Installation Files, install VC_redist.x86.exe.
+
+Folder osTicket Installation Files, install MySQL 5.5 62
+
+Open IIS as an Admin
+
+Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+
+Reload IIS (Open IIS, Stop and Start the server)
+
 
 <p>
 <img width="1512" height="982" alt="Screenshot 2025-09-10 at 3 26 14 PM" src="https://github.com/user-attachments/assets/a5380f70-a935-449d-818f-bcf260db5afd" />
